@@ -30,6 +30,30 @@
         img: "../../profiles/bric.jpeg",
         name: "Bric"
     },
+    {
+        img: "../../profiles/abhi.jpg",
+        name: "Abhi"
+    },
+    {
+        img: "../../profiles/anvita.jpg",
+        name: "Anvita"
+    },
+    {
+        img: "../../profiles/gianni.jpg",
+        name: "Jonny"
+    },
+    {
+        img: "../../profiles/teo.jpg",
+        name: "Toe"
+    },
+    {
+        img: "../../profiles/vincent.jpg",
+        name: "Bincent"
+    },
+    {
+        img: "../../profiles/mark.jpg",
+        name: "Merk"
+    },
     ]
 
 </script>
